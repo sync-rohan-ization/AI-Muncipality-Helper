@@ -1,4 +1,4 @@
-# InnoVision — Pune waste inspection dashboard
+# InnoVision , Pune waste inspection dashboard
 
 Interactive map-first prototype with four illustrative reports. Each marker opens its own reference image and concept bounding boxes. Includes manual report creation, status changes, search, CSV export and browser-local persistence.
 
