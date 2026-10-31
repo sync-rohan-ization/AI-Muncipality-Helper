@@ -1,1 +1,1 @@
-# AI-Muncipalty-Helper
+# AI-Muncipality-Helper
